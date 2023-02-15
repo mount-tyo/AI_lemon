@@ -1,0 +1,7 @@
+/.venv
+/.vscode
+/dataset/classified
+/vgg/cnn.plk
+/preprocessed
+/dataset
+.DS_Store
